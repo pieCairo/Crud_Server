@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Files generated during execution
+npm-debug.log
+yarn-error.log
+
+# Development environment
+.env
+
+# Local configuration files
+config/
+
+# Backup files
+*.bak
+*.backup
+*.swp
+
+# Temporary files
+*.log
+*.tmp
+
+# Generated folders
+.DS_Store
+Thumbs.db
+.cache
+
+# Visual Studio Code specific environment
+.vscode/
+
+# WebStorm specific environment
+.idea/
+
+# Eclipse specific environment
+.classpath
+.project
+.settings/
+
+# Depending on the operating system, you may add the following lines:
+# For MacOS
+.DS_Store
+
+# For Windows
+Thumbs.db
+Desktop.ini
